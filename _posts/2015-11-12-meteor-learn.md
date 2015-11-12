@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Markdown test"
-date:   2015-11-12 17:32:59
-categories: jekyll update
+title:  "开发第一个Meteor程序"
+date:   2015-11-12 17:57:59
+categories: meteor
 ---
 ##第一部分
 ###第一节
