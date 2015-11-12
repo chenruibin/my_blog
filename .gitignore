@@ -1,2 +1,11 @@
+<<<<<<< HEAD
 _site
 .sass-cache
+=======
+_site/*
+Thumbs.db
+.DS_Store
+!.gitkeep
+_site/
+.sass-cache/
+>>>>>>> d0bd1ea34cb8227617d19684ec6306f8e2d559a8
