@@ -15,7 +15,7 @@ CONFIG = {
 # Path configuration helper
 module JB
   class Path
-    SOURCE = "my_blog"
+    SOURCE = "."
     Paths = {
       :layouts => "_layouts",
       :themes => "_includes/themes",
